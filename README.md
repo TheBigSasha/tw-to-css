@@ -24,6 +24,10 @@ npm install tw-to-css -E
 yarn add tw-to-css -E
 ```
 
+```sh pnpm
+pnpm i tw-to-css -E
+```
+
 #### CDN
 
 ```html

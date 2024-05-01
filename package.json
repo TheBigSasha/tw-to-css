@@ -35,18 +35,19 @@
     "url": "https://github.com/vinicoder/tw-to-css/issues"
   },
   "dependencies": {
-    "postcss": "8.4.31",
-    "postcss-css-variables": "0.18.0",
-    "tailwindcss": "3.3.2"
+    "postcss": "8.4.38",
+    "postcss-css-variables": "0.19.0",
+    "postcss-js": "^4.0.1",
+    "tailwindcss": "3.4.3"
   },
   "devDependencies": {
-    "@types/node": "18.11.18",
-    "@types/postcss-css-variables": "0.18.0",
-    "@types/react": "18.0.28",
+    "@types/node": "20.12.7",
+    "@types/postcss-css-variables": "0.18.3",
+    "@types/react": "18.3.1",
     "@types/tailwindcss": "3.1.0",
-    "esbuild": "0.15.18",
-    "tsx": "3.12.2",
-    "typescript": "4.9.4"
+    "esbuild": "0.20.2",
+    "tsx": "4.8.1",
+    "typescript": "5.4.5"
   },
   "homepage": "https://github.com/vinicoder/tw-to-css#readme",
   "engines": {
